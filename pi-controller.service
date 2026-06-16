@@ -1,0 +1,17 @@
+[Unit]
+Description=Drowsiness Detection — Boot Controller (green LED + button)
+# Cho desktop dung gan xong neu co the, nhung khong phu thuoc bat buoc
+After=graphical-session.target default.target
+Wants=graphical-session.target
+ 
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 %h/Documents/ce_comedians/project/pi_controller.py
+Restart=on-failure
+RestartSec=3
+TimeoutStopSec=15
+StandardOutput=journal
+StandardError=journal
+ 
+[Install]
+WantedBy=default.target
