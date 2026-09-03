@@ -5,9 +5,7 @@ Real-time, edge-AI system that monitors focus levels of students and remote work
 | | |
 |---|---|
 | **Team** | CE Comedians |
-| **Course** | CE410.Q21 — Computer Systems Engineering Project |
 | **Institution** | Faculty of Computer Engineering, University of Information Technology (UIT), Vietnam National University – Ho Chi Minh City |
-| **Supervisor** | Dr. Nguyễn Minh Sơn |
 
 📹 [Demo Video](https://drive.google.com/file/d/1hbr3oS7enMm2-M1b9AYo3p1FFQD-jJgH/view?usp=drive_link) &nbsp;·&nbsp; 💻 [Source Code](https://github.com/xp1708/KHMTMT)
 
@@ -429,21 +427,6 @@ Consolidated from the project's install/deploy debugging sessions.
 - Group E failures are concentrated on continuous head-shaking and multi-person scenes — the system is designed for single-person tracking only.
 
 *Source: `Báo cáo cuối kì - CE Comedians.docx` §4.1–4.2, cross-verified against `BC_CuoiKy.pptx` Slide 20.*
-
-## Team & Supervisor
-
-| Member | Student ID | Role |
-|---|---|---|
-| Lâm Xuân Phước | 22521154 | Presenter |
-| Đàm Vĩnh Khang | 22520606 | Member |
-| Lê Khắc Duy | 22520317 | Member |
-| Trần Quốc Trinh | 22521542 | Member |
-| Huỳnh Phạm Nhật Tiến | 22521466 | Member |
-| Nguyễn Phạm Thiên Ân | 22520015¹ | Member |
-
-**Supervisor:** Dr. Nguyễn Minh Sơn
-
-¹ *Source discrepancy: the official report (`.docx`) lists `22520015`; the slide deck (`.pptx`) lists `23520015`. The report value is used here — please confirm and correct if needed.*
 
 ## References
 
