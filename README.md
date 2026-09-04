@@ -274,9 +274,6 @@ Blynk virtual pins: `V0` = current state (string), `V1` drowsiness, `V2` gaze de
 ## Team
 
 **CE Comedians** — Faculty of Computer Engineering, University of Information Technology, VNU-HCM.
-Course CE410 — Computer Systems Engineering. Supervisor: Dr. Nguyễn Minh Sơn.
-
-Lâm Xuân Phước · Đàm Vĩnh Khang · Lê Khắc Duy · Trần Quốc Trinh · Huỳnh Phạm Nhật Tiến · Nguyễn Phạm Thiên Ân
 
 ## License
 
