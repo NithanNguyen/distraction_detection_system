@@ -53,10 +53,7 @@ Evaluated on **88 functional test cases across 6 categories, the system reaches 
 
 ## System Architecture
 
-![System architecture](docs/assets/architecture.png)
-<img width="1360" height="880" alt="system_architecture" src="https://github.com/user-attachments/assets/04d6e568-e579-4e8f-94a5-56e51fb0f51a" />
-<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="880" viewBox="0 0 1360 880" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata>
-
+<img width="3400" height="2200" alt="system_architecture" src="https://github.com/user-attachments/assets/e009575d-8728-4b98-90c3-346ddafb866a" />
 
 ### Processing pipeline
 
