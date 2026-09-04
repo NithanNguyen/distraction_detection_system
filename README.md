@@ -278,4 +278,4 @@ Faculty of Computer Engineering, University of Information Technology, VNU-HCM.
 
 ## License
 
-<LICENSE — e.g. MIT>
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
