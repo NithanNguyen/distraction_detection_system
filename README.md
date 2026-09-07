@@ -35,7 +35,7 @@ cases the system passed 70 (80 %).
      <img src="https://i.ytimg.com/vi/52WKZ4SabQ0/hqdefault.jpg" alt="Watch Demo Video" width="600">
   </a>
   <br>
-  <em>▶️ Nhấp vào ảnh để xem video demo trên YouTube</em>
+  <em>Click to watch the Demo video</em>
 </p>
 
 ## Features
