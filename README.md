@@ -198,7 +198,7 @@ this is a user service and not a system service, are in
 ## Team
 
 Course project for CE410.Q21, Faculty of Computer Engineering, University of Information
-Technology, VNU-HCM. Supervisor: Dr. Nguyễn Minh Sơn.
+Technology, VNU-HCM.
 
 Lâm Xuân Phước · Đàm Vĩnh Khang · Lê Khắc Duy · Trần Quốc Trinh · Huỳnh Phạm Nhật Tiến ·
 Nguyễn Phạm Thiên Ân
