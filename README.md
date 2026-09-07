@@ -173,19 +173,17 @@ this is a user service and not a system service, are in
 ├── main_gpio_alert.py            # Yellow LED + buzzer driver, two-phase pattern
 ├── pi_controller.py              # Boot watchdog: green LED, button, spawn/stop main.py
 ├── pi-controller.service         # systemd user unit for the controller
-├── yolo11n.onnx                  # Phone detector, exported from yolo11n.pt at opset 12
-├── cloud                         # Earlier single-file variant, Blynk HTTP only, no GPIO module
-├── cloud_Phuoc                   # Earlier single-file variant using RPi.GPIO directly
 ├── assets/
-│   ├── INSTALL.md                # Full install sequence and ONNX export     
-│   └── Images
+    └── yolo11n.onnx                  # Phone detector, exported from yolo11n.pt at opset 12
+├── assets/
+│   ├── docs/             
+│       ├── INSTALL.md                # Full install sequence and ONNX export     
+│       ├── INSTALL_GUIDE_PITFALLS.md     # Catalogue of nine build failures on Pi 4 and their fixes
+│       └── README_DEPLOY.md              # Hardware wiring, systemd registration, troubleshooting table
+│   ├── results/
+│   └── images/
 │       └── system_architecture.png   # Diagram used above
-├── INSTALL_GUIDE_PITFALLS.md     # Catalogue of nine build failures on Pi 4 and their fixes
-└── README_DEPLOY.md              # Hardware wiring, systemd registration, troubleshooting table
 ```
-
-`cloud` and `cloud_Phuoc` are kept for reference; they carry no `.py` extension and are not the
-entry point.
 
 ## References
 
