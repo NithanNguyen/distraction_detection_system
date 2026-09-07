@@ -15,6 +15,8 @@
 
 ---
 
+## Overview
+
 Sustained attention during online study and remote work is hard to measure: self-report is
 unreliable, and camera-based services push a live video stream to a vendor's cloud. This
 project keeps the whole vision pipeline on the edge device. A USB webcam feeds MediaPipe Face
