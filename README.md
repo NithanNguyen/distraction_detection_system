@@ -271,10 +271,9 @@ Blynk virtual pins: `V0` = current state (string), `V1` drowsiness, `V2` gaze de
 
 ---
 
-## Team
+## Author
 
-**CE Comedians** — Course CE410 — Computer Systems Engineering. 
-Faculty of Computer Engineering, University of Information Technology, VNU-HCM.
+**CE Comedians** — Course CE410 — Faculty of Computer Engineering, University of Information Technology, VNU-HCM.
 
 ## License
 
