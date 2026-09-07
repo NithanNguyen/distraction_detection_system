@@ -136,7 +136,7 @@ dashboard (optional — the detection path does not need it).
 ## Quick start
 
 Assumes Python 3.11.9 is already active via pyenv. Full setup, including the pyenv install and
-the ONNX export, is in [`docs/INSTALL.md`](docs/INSTALL.md).
+the ONNX export, is in [`assets/INSTALL.md`](assets/INSTALL.md).
 
 ```bash
 git clone https://github.com/xp1708/KHMTMT.git && cd KHMTMT
