@@ -28,6 +28,16 @@ cases the system passed 70 (80 %).
 > lighting. Multi-person frames are not supported — the pipeline tracks a single face and
 > reports the first one it locks on to.
 
+### DEMO
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=52WKZ4SabQ0">
+     <img src="https://i.ytimg.com/vi/52WKZ4SabQ0/hqdefault.jpg" alt="Watch Demo Video" width="600">
+  </a>
+  <br>
+  <em>▶️ Nhấp vào ảnh để xem video demo trên YouTube</em>
+</p>
+
 ## Features
 
 - **Drowsiness** — Eye Aspect Ratio over the six Face Mesh landmarks per eye, gated by a sustained-closure timer.
@@ -41,7 +51,7 @@ cases the system passed 70 (80 %).
 
 ## Architecture
 
-![System architecture](docs/system_architecture.png)
+![System architecture](assets/images/system_architecture.png)
 
 ```text
 USB webcam
