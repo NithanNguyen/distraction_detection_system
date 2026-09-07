@@ -176,9 +176,10 @@ this is a user service and not a system service, are in
 ├── yolo11n.onnx                  # Phone detector, exported from yolo11n.pt at opset 12
 ├── cloud                         # Earlier single-file variant, Blynk HTTP only, no GPIO module
 ├── cloud_Phuoc                   # Earlier single-file variant using RPi.GPIO directly
-├── docs/
-│   ├── INSTALL.md                # Full install sequence and ONNX export
-│   └── system_architecture.png   # Diagram used above
+├── assets/
+│   ├── INSTALL.md                # Full install sequence and ONNX export     
+│   └── Images
+│       └── system_architecture.png   # Diagram used above
 ├── INSTALL_GUIDE_PITFALLS.md     # Catalogue of nine build failures on Pi 4 and their fixes
 └── README_DEPLOY.md              # Hardware wiring, systemd registration, troubleshooting table
 ```
