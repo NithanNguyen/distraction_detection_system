@@ -195,9 +195,9 @@ this is a user service and not a system service, are in
 6. Student Engagement Detection Based on Head Pose Estimation and Facial Expressions Using Transfer Learning — https://link.springer.com/chapter/10.1007/978-3-031-88653-9_25
 7. R. Khan and R. Debnath, "Human distraction detection from video stream using artificial emotional intelligence," *Int. J. Image Graphics Signal Proc.*, vol. 12, no. 2, pp. 19–29, 2020. Head pose estimation follows this method.
 
-## Team
+## Author
 
-Nguyễn Phạm Thiên Ân · Lâm Xuân Phước · Đàm Vĩnh Khang · Lê Khắc Duy · Trần Quốc Trinh · Huỳnh Phạm Nhật Tiến
+Team CE Comedians - Nguyễn Phạm Thiên Ân · Lâm Xuân Phước · Đàm Vĩnh Khang · Lê Khắc Duy · Trần Quốc Trinh · Huỳnh Phạm Nhật Tiến
 
 Course project for CE410.Q21, Faculty of Computer Engineering, University of Information Technology, VNU-HCM.
 
