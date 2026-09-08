@@ -200,8 +200,7 @@ this is a user service and not a system service, are in
 Course project for CE410.Q21, Faculty of Computer Engineering, University of Information
 Technology, VNU-HCM.
 
-Lâm Xuân Phước · Đàm Vĩnh Khang · Lê Khắc Duy · Trần Quốc Trinh · Huỳnh Phạm Nhật Tiến ·
-Nguyễn Phạm Thiên Ân
+Nguyễn Phạm Thiên Ân · Lâm Xuân Phước · Đàm Vĩnh Khang · Lê Khắc Duy · Trần Quốc Trinh · Huỳnh Phạm Nhật Tiến
 
 ### My contributions
 
