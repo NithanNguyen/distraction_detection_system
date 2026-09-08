@@ -197,10 +197,9 @@ this is a user service and not a system service, are in
 
 ## Team
 
-Course project for CE410.Q21, Faculty of Computer Engineering, University of Information
-Technology, VNU-HCM.
-
 Nguyễn Phạm Thiên Ân · Lâm Xuân Phước · Đàm Vĩnh Khang · Lê Khắc Duy · Trần Quốc Trinh · Huỳnh Phạm Nhật Tiến
+
+Course project for CE410.Q21, Faculty of Computer Engineering, University of Information Technology, VNU-HCM.
 
 ### My contributions
 
