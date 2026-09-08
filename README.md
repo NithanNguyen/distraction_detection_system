@@ -203,4 +203,12 @@ Technology, VNU-HCM.
 Lâm Xuân Phước · Đàm Vĩnh Khang · Lê Khắc Duy · Trần Quốc Trinh · Huỳnh Phạm Nhật Tiến ·
 Nguyễn Phạm Thiên Ân
 
+### My contributions
+
+| # | Task | Description |
+|---|---|---|
+| 1 | Algorithm research and detection criteria | Surveyed published literature on vision-based attention and drowsiness monitoring; selected EAR, MAR and head-pose estimation as the detection primitives and derived the threshold set and temporal windows used to classify user state. |
+| 2 | Embedded deployment on Raspberry Pi 4 | Provisioned the runtime environment (pyenv Python 3.11.9, venv, MediaPipe aarch64 wheels, ONNX Runtime) and ported the vision pipeline to the board, resolving arm64 build and dependency constraints. |
+| 3 | Hardware control and alert subsystem | Designed and implemented `main_gpio_alert.py` (two-phase LED/buzzer escalation), `pi_controller.py` (button-driven boot watchdog with process lifecycle management and graceful `SIGTERM` shutdown) and the `pi-controller.service` systemd user unit, then validated them on the assembled hardware. |
+
 Released under the [MIT License](LICENSE).
