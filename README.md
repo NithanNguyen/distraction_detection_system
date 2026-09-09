@@ -85,6 +85,8 @@ Detection thresholds, landmark index sets and timer windows all live in section 
 
 ## Results
 
+![Dashboard](assets/images/results/Distraction - Looking around.png)
+
 88 functional test cases, executed manually on the assembled device, grouped by behaviour:
 
 | Group | Function | Cases | Pass | Fail | Pass rate |
